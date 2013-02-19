@@ -1,0 +1,16 @@
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\MRLib\MRRunner.exe
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\HDInsight.Lightning.Test.dll.config
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\HDInsight.Lightning.Test.dll
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\HDInsight.Lightning.Test.pdb
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\HDInsight.Lightning.exe
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\nunit.framework.dll
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\HDInsight.Lightning.pdb
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\bin\Debug\nunit.framework.xml
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\obj\Debug\HDInsight.Lightning.Test.csprojResolveAssemblyReference.cache
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\obj\Debug\HDInsight.Lightning.Test.dll
+c:\dev\msmvp2013\HDInsight.Lightning\HDInsight.Lightning.Test\obj\Debug\HDInsight.Lightning.Test.pdb

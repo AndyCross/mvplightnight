@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDInsight.Lightning", "HDInsight.Lightning\HDInsight.Lightning.csproj", "{A29FAEE3-A3D1-44EB-913E-32455B095C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDInsight.Lightning.Test", "HDInsight.Lightning.Test\HDInsight.Lightning.Test.csproj", "{19501FCB-29AB-4BD9-845B-EDE7368FD086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29FAEE3-A3D1-44EB-913E-32455B095C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29FAEE3-A3D1-44EB-913E-32455B095C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29FAEE3-A3D1-44EB-913E-32455B095C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29FAEE3-A3D1-44EB-913E-32455B095C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19501FCB-29AB-4BD9-845B-EDE7368FD086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19501FCB-29AB-4BD9-845B-EDE7368FD086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19501FCB-29AB-4BD9-845B-EDE7368FD086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19501FCB-29AB-4BD9-845B-EDE7368FD086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
